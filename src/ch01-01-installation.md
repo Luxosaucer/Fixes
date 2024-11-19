@@ -131,23 +131,23 @@ After installing Rust, depending on your IDE and code editor, extensions can be 
 These are only some of the platforms which support Rust, however they are the most popular so their installation guides will be included here. It is assumed that you have already followed the rust installation guide which can be found here.
 
 
-###Adding Rust For Visual Studio Code
+### Adding Rust For Visual Studio Code
 
 Open Visual Studio Code, go to extension and search for “rust-analyzer”. Click on enable. Reload the Visual Studio Code window. This will have enabled Rust, additionally Cargo and the Rust linter comes pre-installed with the Rust installation file. For more information go here.
 
-###Adding Rust For Visual Studio
+### Adding Rust For Visual Studio
 
 Currently Visual Studio does not offer native support for Rust. However there are several third party addons which are able to provide Rust language support. These are not officially created by the Rust Foundation, so performance may vary. These addons can be found on the official Visual Studio Marketplace.
 
 Note: Visual Studio requires a subscription for commercial sized projects.
 
-###AddingRust for JetBrains
+### AddingRust for JetBrains
 
 JetBrains produces a Rust IDE that enables code editing and debugging. Rust comes with the IDE and and just requires the installation of the IDE without any extensions. However, data about the IDE usage will be collected anonymously. For more information go here.
 
 Note: RustRover requires a subscription for commercial sized projects. 
 
-###Adding Rust for Eclipse 
+### Adding Rust for Eclipse 
 
 Eclipse produces a Rust extension for its Eclipse IDE. To add the exnetion, click on help. Then click on Install New Software. Within the Work With setting add https://download.eclipse.org/corrosion/releases/latest. Finally add the installation that you want. For more information go here.
 
