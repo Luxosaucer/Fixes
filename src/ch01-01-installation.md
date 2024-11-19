@@ -133,7 +133,7 @@ These are only some of the platforms which support Rust, however they are the mo
 
 ### Adding Rust For Visual Studio Code
 
-Open Visual Studio Code, go to extension and search for “rust-analyzer”. Click on enable. Reload the Visual Studio Code window. This will have enabled Rust, additionally Cargo and the Rust linter comes pre-installed with the Rust installation file. For more information go here.
+Open Visual Studio Code, go to extension and search for “rust-analyzer”. Click on enable. Reload the Visual Studio Code window. This will have enabled Rust, additionally Cargo and the Rust linter comes pre-installed with the Rust installation file. For more information go [here][visualstudiocode].
 
 ### Adding Rust For Visual Studio
 
@@ -143,13 +143,13 @@ Note: Visual Studio requires a subscription for commercial sized projects.
 
 ### AddingRust for JetBrains
 
-JetBrains produces a Rust IDE that enables code editing and debugging. Rust comes with the IDE and and just requires the installation of the IDE without any extensions. However, data about the IDE usage will be collected anonymously. For more information go here.
+JetBrains produces a Rust IDE that enables code editing and debugging. Rust comes with the IDE and and just requires the installation of the IDE without any extensions. However, data about the IDE usage will be collected anonymously. For more information go [here][jetbrains].
 
 Note: RustRover requires a subscription for commercial sized projects. 
 
 ### Adding Rust for Eclipse 
 
-Eclipse produces a Rust extension for its Eclipse IDE. To add the exnetion, click on help. Then click on Install New Software. Within the Work With setting add https://download.eclipse.org/corrosion/releases/latest. Finally add the installation that you want. For more information go here.
+Eclipse produces a Rust extension for its Eclipse IDE. To add the exnetion, click on help. Then click on Install New Software. Within the Work With setting add https://download.eclipse.org/corrosion/releases/latest. Finally add the installation that you want. For more information go [here][eclipse].
 
 
 ### Local Documentation
@@ -162,6 +162,9 @@ Any time a type or function is provided by the standard library and you’re not
 sure what it does or how to use it, use the application programming interface
 (API) documentation to find out!
 
+[visualstudiocode]: https://code.visualstudio.com/docs/languages/rust
+[jetbrains]: https://www.jetbrains.com/rust/
+[eclipse]: https://projects.eclipse.org/projects/tools.corrosion
 [otherinstall]: https://forge.rust-lang.org/infra/other-installation-methods.html
 [install]: https://www.rust-lang.org/tools/install
 [msvc]: https://rust-lang.github.io/rustup/installation/windows-msvc.html
